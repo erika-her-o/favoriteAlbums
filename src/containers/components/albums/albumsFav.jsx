@@ -4,7 +4,7 @@ export default function FavoriteAlbums() {
   return (
     <>
       <div>
-          <h1>albumes aca</h1>
+          <h1>albumes acá</h1>
       </div>
     </>
   );

@@ -2,7 +2,7 @@ import React from "react";
 import Home from "../containers/components/home/home";
 import FavoriteAlbums from "../containers/components/albums/albumsFav";
 import SocialNetworks from "../containers/components/social-networks/social-networks";
-import { Route } from "react-router-dom";
+import {  Route } from "react-router-dom";
 
 export default function Principal() {
     return (
