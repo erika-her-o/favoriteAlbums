@@ -1,15 +1,19 @@
 import React from "react";
-import { albums } from "../../../resources/albums";
+// import { albums } from "../../../resources/albums";
+import Cards from "./cards";
 
 export default function FavoriteAlbums() {
   return (
-    <>
-      <div>
-          <h1>albumes acá</h1>
-          {/* <Album/> */}
-      </div>
-    </>
+    <div className="App">
+      <Cards/>
+    </div>
+     
+    
   );
 
-  
+  // function Album(props) {
+  //   return(
+  //     <h1 className="artist">{props.artist}</h1>
+  //   )
+  // }
 }
