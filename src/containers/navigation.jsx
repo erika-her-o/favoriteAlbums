@@ -8,7 +8,7 @@ export default function Navigation() {
         <ul className="nav-bar">
           <li>
             <Link className="link-style" to="/">
-              Home
+              Principal
             </Link>
           </li>
           <li>
